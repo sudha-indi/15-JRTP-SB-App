@@ -15,5 +15,7 @@ public class Application {
 void m1()
 {int i=20;
 int j=10;
+int c=i+j;
+System.out.println(c);
 }
 }
