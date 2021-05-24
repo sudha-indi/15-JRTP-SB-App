@@ -16,6 +16,6 @@ void m1()
 {int i=20;
 int j=10;
 int c=i+j;
-System.out.println("sum::"+c);
+System.out.println("sum of numbers::"+c);
 }
 }
