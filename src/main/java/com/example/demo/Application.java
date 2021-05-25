@@ -18,4 +18,10 @@ int j=10;
 int c=i+j;
 System.out.println("sum of numbers::"+c);
 }
+
+//HIS-200 related task
+
+publoc void doProcess
+{
+	//logic here
 }
