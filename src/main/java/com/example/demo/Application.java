@@ -18,4 +18,6 @@ int j=10;
 int c=i+j;
 System.out.println("sum of numbers::"+c);
 }
+
+int a=100;
 }
